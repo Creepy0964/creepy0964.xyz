@@ -1,0 +1,7 @@
+services:
+  svelte-app:
+    container_name: creepy0964-card
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped

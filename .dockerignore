@@ -1,0 +1,13 @@
+node_modules
+.svelte-kit
+build
+.git
+.gitignore
+Dockerfile
+.dockerignore
+*.md
+.env
+.env.*
+.vscode
+.DS_Store
+npm-debug.log*
